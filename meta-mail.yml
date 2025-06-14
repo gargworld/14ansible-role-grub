@@ -1,0 +1,14 @@
+galaxy_info:
+  role_name: ansible-role-grub
+  description: ansible role to configure grub
+ 
+  platforms:
+  - name: EL
+    versions:
+    - all
+ 
+  galaxy_tags:
+  - ansible-role-grub
+  - grub
+
+dependencies: []
