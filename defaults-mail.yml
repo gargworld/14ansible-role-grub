@@ -1,0 +1,3 @@
+---
+
+grub_cmdline_linux: "quiet console=ttyS1,115200 crashkernel=auto console=tty0 audit_backlog_limit=8192 audit=1 pti=on vsyscall=none"
